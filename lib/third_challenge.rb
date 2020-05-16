@@ -15,7 +15,5 @@ epic_tragedy = {
 }
  
   
-End
 
-  
 end
